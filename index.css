@@ -1,0 +1,70 @@
+body{
+    margin:0px;
+
+
+}
+
+
+ a{ 
+  text-align:center;
+ height:100px;
+ width:300px;
+  margin-left:600px;
+  margin-top:-380px;
+     text-decoration:none;
+    font-size:80px;
+    font-weight:bolder;
+    border:2px solid black;
+    color:black;
+    background-color:skyblue;
+    border-radius:20px;
+    display:block;
+
+}
+ img{
+
+    width:100%;
+    height:100%;
+
+
+}
+ .zero{
+     display:block;
+
+ }
+ .one{
+    display:none;
+
+
+}
+.tow {
+    
+
+    display:none;
+      
+
+}
+
+
+.thre{
+
+    display:none;
+
+
+}
+.four{
+
+    display:none;
+
+}
+marquee{
+    margin-top:203px;
+    background-color:white;
+    color:black;
+    padding:10px;
+    font-size:24px;
+    font-weight:bolder;
+    border:2px solid black;
+    border-radius:18px;
+    font-family:Dubai;
+}
